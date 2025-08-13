@@ -36,9 +36,9 @@ Education in rural areas faces many challenges including lack of resources, insu
 
 ## Team Members
 
-- Varsha Basavaraj — Roll Number: 20221IST0036  
-- Member 2 Name — Roll Number: RollNumber2  
-- Member 3 Name — Roll Number: RollNumber3
+- YASHWITHA T              — Roll Number: 20221IST0009
+- GUDDITI YASHWANTH KUMAR  — Roll Number: 20221IST0011
+- VARSHA B                 — Roll Number:20221IST0036
 
 
 This project aims to improve the quality of education in rural areas by implementing innovative digital tools.
