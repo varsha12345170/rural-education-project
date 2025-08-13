@@ -16,6 +16,6 @@ This project aims to improve the quality of education in rural areas by developi
 ## Author
 Yashwitha T              - Roll Number: 20221IST0009  
 Gudditi Yashwanth Kumar - Roll Number: 20221IST0011
-Varsha B                - Roll Number: 20221IST0036
+Varsha B                - Roll Number: 20221IST0036 
 
 This project aims to improve the quality of education in rural areas by implementing innovative digital tools.
