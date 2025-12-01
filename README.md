@@ -9,7 +9,7 @@ Ideate and implement a system to enhance the quality of education in rural areas
 
 ## Objectives
 
-- To develop a web-based learning system for rural students.
+To develop a web-based learning system for rural students.
 
 To provide educational content offline without internet dependency.
 
