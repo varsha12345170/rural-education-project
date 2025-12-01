@@ -22,10 +22,10 @@ Education in rural areas faces many challenges including lack of resources, insu
 
 ## Technology Stack
 
-- Frontend: HTML, CSS, JavaScript  
-- Backend: Node.js / Python / PHP (specify what your project uses)  
-- Database: MySQL / MongoDB / SQLite  
-- Hosting: GitHub Pages / Local server / Cloud (specify)
+- Frontend: HTML, CSS, JavaScript , React 
+- Backend: Node.js, Express.js(REST full API ) authentication->JWT,Cors,bcryptjs,dotenv,nodemon 
+- Database:  MongoDB   
+- Code implementation in using VS CODE 
 
 ## How to Use
 
@@ -37,7 +37,7 @@ Education in rural areas faces many challenges including lack of resources, insu
 ## Team Members
 
 - YASHWITHA T              — Roll Number: 20221IST0009
-- GUDDITI YASHWANTH KUMAR  — Roll Number: 20221IST0011
+- GUDDITI YASWANTH KUMAR  — Roll Number: 20221IST0011
 - VARSHA B                 — Roll Number: 20221IST0036
 
 
