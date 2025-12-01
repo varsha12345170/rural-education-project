@@ -4,14 +4,24 @@ This project aims to enhance the quality of education in rural areas by developi
 
 ## Problem Statement
 
-Education in rural areas faces many challenges including lack of resources, insufficient trained teachers, and poor connectivity. This project addresses these issues by creating a platform that bridges the educational gap using technology.
+Ideate and implement a system to enhance the quality of education in rural areas. The aim of the system is not only to improve literacy rates but also to strengthen the overall learning experience for rural students. This includes developing their communication skills, enhancing subject knowledge, and providing access to modern educational resources. The system will focus on bridging the gap between urban and rural education by offering both online and offline learning opportunities. It will also promote skill development, mentorship, and awareness about government schemes, ultimately contributing to the personal and professional growth of the targeted community.
+
 
 ## Objectives
 
-- To provide easy access to quality educational content for rural students.  
-- To develop interactive learning modules that engage students effectively.  
-- To support teachers with tools to monitor progress and share materials.  
-- To enhance connectivity between schools and educational institutions.
+- To develop a web-based learning system for rural students.
+
+To provide educational content offline without internet dependency.
+
+To allow teachers to upload lessons and quizzes easily.
+
+To enable students to access lessons and take tests on any device.
+
+To track student progress and show reports through charts.
+
+To make the system low-cost, simple, and easy to use.
+
+To support learning even in areas with limited electricity and network.
 
 ## Features
 
@@ -20,19 +30,12 @@ Education in rural areas faces many challenges including lack of resources, insu
 - Teacher dashboard for progress tracking.  
 - Offline access to materials to accommodate limited internet connectivity.
 
-## Technology Stack
+## Technologies used 
 
-- Frontend: HTML, CSS, JavaScript , React 
+- Frontend: HTML, CSS, JavaScript , React , libraries->bootstrap,bootstrap-icons,luicide-icons.framer-motion(animation),formik(forms),yup(validation),react-router-dom(routes),and axios(fetching data from backend)
 - Backend: Node.js, Express.js(REST full API ) authentication->JWT,Cors,bcryptjs,dotenv,nodemon 
 - Database:  MongoDB   
 - Code implementation in using VS CODE 
-
-## How to Use
-
-1. Clone or download this repository.  
-2. Follow the setup instructions in the `INSTALL.md` or `README` (if you have one).  
-3. Launch the application on your local server or preferred environment.  
-4. Explore the features through the user interface.
 
 ## Team Members
 
