@@ -1,0 +1,6 @@
+_id,name,email,phone,grade,board,city,passwordHash,createdAt,updatedAt
+690f41aee32c0eedda0ce33a,Shashikant Bilgundi,shashibilgundi@gmail.com,8431538785,11,CBSE,Kalaburagi,$2b$10$qUqG5YCMDRzxUkjFQbFMp.sWV2UOUVjiuyeGz57JqpnDi/FFCoTO2,2025-11-08T13:12:14.703Z,2025-11-08T13:12:14.703Z
+6911cf01b76c4216006503f9,Shashikant Bilgundi,shashibilgundi19@gmail.com,7483060728,10,State,Kalaburagi,$2b$10$pazSWsKDuCLBny6GOoRKwOvL/nnMIBp5J/S2YZPpUu7VRGTetlDlO,2025-11-10T11:39:45.638Z,2025-11-10T11:39:45.638Z
+6911d3e4b76c4216006503fa,xyz,xyz@gmail.com,9876543210,9,Other,Kalaburagi,$2b$10$vbmS.sps1qhytP0GO0oRkeFek3h3qWjmq4tOFJlqD4txVvrApg40S,2025-11-10T12:00:36.703Z,2025-11-10T12:00:36.703Z
+691225e7f6871ff422a80116,Anjali bilgundi,anjalibilgundi9@gmail.com,7894561230,10,CBSE,Kalaburagi,$2b$10$QKOV2k/goduQFpowU7Vrru5lX8NfosWA.OcYwbixvV6RSNuSwOuwC,2025-11-10T17:50:31.701Z,2025-11-10T17:50:31.701Z
+691226d0f6871ff422a80117,Alex,umesha.dme07@gmail.com,8431538782,8,ICSE,Kalaburagi,$2b$10$U01vmyyRMz/oSjEcfczTne49HTm0LDFvMJAp5c.0HfsH5QhjTxtJm,2025-11-10T17:54:24.384Z,2025-11-10T17:54:24.384Z

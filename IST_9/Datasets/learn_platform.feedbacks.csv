@@ -1,0 +1,7 @@
+_id,category,rating,tags[0],tags[1],message,name,email,anonymous,contactBack,createdAt,updatedAt,__v
+69117e58d2c9d47ddf4fe726,Platform,5,UI,Speed,This is my feedback for testing,Vinayak,vinayak45@gmail.com,false,true,2025-11-10T05:55:36.674Z,2025-11-10T05:55:36.674Z,0
+6911d34297eff950c8da6f88,Courses,5,"[""Suggestion""]",,csd,,,true,true,2025-11-10T11:57:54.786Z,2025-11-10T11:57:54.786Z,0
+6912b6bfc92e5aa6fdfd0ce3,Classes,5,"[""English""]",,this class  was so effective,,,true,true,2025-11-11T04:08:31.667Z,2025-11-11T04:08:31.667Z,0
+6912d19bc92e5aa6fdfd0fa1,Courses,5,"[""Science""]",,thu=is is,,,true,true,2025-11-11T06:03:07.989Z,2025-11-11T06:03:07.989Z,0
+6912d672bd94906e008445c5,Courses,5,"[""Science""]",,hicsk,,,true,true,2025-11-11T06:23:46.038Z,2025-11-11T06:23:46.038Z,0
+6919cd114bdbc880d45167af,Classes,5,"[""Science""]",,irughg,,,true,true,2025-11-16T13:09:37.700Z,2025-11-16T13:09:37.700Z,0
