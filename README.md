@@ -39,9 +39,9 @@ To support learning even in areas with limited electricity and network.
 
 ## Team Members
 
-- YASHWITHA T              — Roll Number: 20221IST0009
-- GUDDITI YASWANTH KUMAR  — Roll Number: 20221IST0011
-- VARSHA B                 — Roll Number: 20221IST0036
+- YASHWITHA T     — Roll Number: 20221IST0009
+- YASWANTH KUMAR  — Roll Number: 20221IST0011
+- VARSHA B        — Roll Number: 20221IST0036
 
 
 This project aims to improve the quality of education in rural areas by implementing innovative digital tools.
